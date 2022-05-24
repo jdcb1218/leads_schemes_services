@@ -1,0 +1,7 @@
+name = Leads schemes services
+description = WebService APIs for Leads Schemes.
+core = 7.x
+package = Leads Schemes
+project = leads_schemes
+dependencies[] = services
+dependencies[] = rest_server
